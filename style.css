@@ -162,3 +162,9 @@ nav ul li a:hover, a.active{
  margin-right: 10px;
  border-radius: 10px;
 }
+.show{
+    width:300px;
+    font-weight: bold;
+    /* background-color :  #c3dee4; */
+    /* color: #fff; */
+}
